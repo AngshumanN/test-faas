@@ -1,2 +1,2 @@
 def angshu_test():
-    print("COVID-19")
+    print("india doing good so far")
