@@ -1,2 +1,2 @@
 def roadmap_sample():
-    print("lockdown")
+    print("lockdown will be over soon!!")
