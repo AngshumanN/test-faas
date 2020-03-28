@@ -1,2 +1,4 @@
-def angshu_test():
-    print("COVID-19")
+
+def angshu_test(**rec_object):
+    recommendation = rec_object
+    return recommendation
