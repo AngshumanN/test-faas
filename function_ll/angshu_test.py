@@ -1,4 +1,4 @@
 
 def angshu_test(**rec_object):
     recommendation = rec_object
-    return recommendation
+    return "test output"
