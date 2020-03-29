@@ -1,2 +1,2 @@
 def new_function():
-    print("COVID-19")
+    print("COVID-20")
