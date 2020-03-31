@@ -1,2 +1,2 @@
-def new_function():
+def new_function1():
     print("COVID-19")
