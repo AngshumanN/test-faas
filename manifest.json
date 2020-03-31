@@ -1,8 +1,8 @@
 {
   "files_list": [
     {
-      "function_name": "new_function1",
-      "function_file_path": "function_kk/new_function1.py"
+      "function_name": "new_function",
+      "function_file_path": "function_kk/new_function.py"
     },
     {
       "function_name": "another_new_function1",
