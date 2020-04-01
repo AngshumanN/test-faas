@@ -1,5 +1,5 @@
 from xpms_helper.model import domain_util
 
 def angshu_test1(**kwargs):
-    json= domain_util.get_domain_object({"solution_id": "libdag", "doc_id": "d79c768b-7282-4e64-a14f-625205d4c5d3", "root_id": "d79c768b-7282-4e64-a14f-625205d4c5d3"})
+    json= domain_util.get_domain_object({"solution_id": "demofunction", "doc_id": "8be5a4d7-73a4-46a8-9568-7ce4b5ec22d3", "root_id": "8be5a4d7-73a4-46a8-9568-7ce4b5ec22d3"})
     return json
