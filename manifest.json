@@ -1,24 +1,20 @@
 {
   "files_list": [
     {
-      "function_name": "new_function",
-      "function_file_path": "function_kk/new_function.py"
+      "function_name": "wakanda_agents",
+      "function_file_path": "fury-secret-files/wakanda_agents.py"
     },
     {
-      "function_name": "another_new_function",
-      "function_file_path": "function_kk/another_new_function.py"
+      "function_name": "siberia_hideout",
+      "function_file_path": "fury-secret-files/siberia_hideout.py"
     },
     {
-      "function_name": "angshu_test",
-      "function_file_path": "function_ll/angshu_test.py"
+      "function_name": "print_domain_document",
+      "function_file_path": "avengers-initiative/print_domain_document.py"
     },
     {
-      "function_name": "roadmap_sample",
-      "function_file_path": "function_test/roadmap_sample.py"
-    },
-    {
-      "function_name": "mi5_init",
-      "function_file_path": "function_ll/mi5_init.py"
+      "function_name": "black_widow",
+      "function_file_path": "avengers-initiative/black_widow.py"
     }
   ]
 }
