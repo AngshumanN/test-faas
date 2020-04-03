@@ -1,2 +1,2 @@
-def new_renamed_function():
+def new_renamed_func():
     return "access granted"
