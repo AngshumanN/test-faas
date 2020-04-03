@@ -5,8 +5,8 @@
       "function_file_path": "fury-secret-files/wakanda_agents.py"
     },
     {
-      "function_name": "new_renamed_func",
-      "function_file_path": "fury-secret-files/new_renamed_func.py"
+      "function_name": "new_renamed",
+      "function_file_path": "fury-secret-files/new_renamed.py"
     },
     {
       "function_name": "print_domain_document",
