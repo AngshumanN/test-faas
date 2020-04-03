@@ -8,7 +8,3 @@ def print_domain_document(config, **kwargs):
     domain_obj = domain_util.get_domain_object(payload)
     document_obj = document_util.get_document_object(payload)
     return {"domain": domain_obj, "document": document_obj}
-
-local_config = {"context":{"doc_id":"testdocid","solution_id":"testsolid"}}
-k = angshu_test(local_config)
-print(k)
