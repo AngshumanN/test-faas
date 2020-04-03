@@ -1,2 +1,2 @@
-def new_renamed():
+def new_ren():
     return "access granted"
