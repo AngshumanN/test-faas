@@ -5,8 +5,8 @@
       "function_file_path": "fury-secret-files/wakanda_agents.py"
     },
     {
-      "function_name": "siberia_hideout",
-      "function_file_path": "fury-secret-files/siberia_hideout.py"
+      "function_name": "new_renamed_function",
+      "function_file_path": "fury-secret-files/new_renamed_function.py"
     },
     {
       "function_name": "print_domain_document",
