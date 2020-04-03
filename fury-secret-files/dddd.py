@@ -1,2 +1,2 @@
-def new_ren():
+def dddd():
     return "access granted"
