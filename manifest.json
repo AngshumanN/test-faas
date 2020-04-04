@@ -5,8 +5,8 @@
       "function_file_path": "fury-secret-files/wakanda_agents.py"
     },
     {
-      "function_name": "dddd",
-      "function_file_path": "fury-secret-files/dddd.py"
+      "function_name": "meaning",
+      "function_file_path": "fury-secret-files/meaning.py"
     },
     {
       "function_name": "print_domain_document",
