@@ -1,8 +1,8 @@
 {
   "files_list": [
     {
-      "function_name": "wakanda_agen",
-      "function_file_path": "fury-secret-files/wakanda_agen.py"
+      "function_name": "wakanda_agents",
+      "function_file_path": "fury-secret-files/wakanda_agents.py"
     },
     {
       "function_name": "dddd",
@@ -13,8 +13,8 @@
       "function_file_path": "avengers-initiative/print_domain_document.py"
     },
     {
-      "function_name": "black_widow",
-      "function_file_path": "avengers-initiative/black_widow.py"
+      "function_name": "black",
+      "function_file_path": "avengers-initiative/black.py"
     }
   ]
 }
