@@ -1,8 +1,8 @@
 {
   "files_list": [
     {
-      "function_name": "wakanda_agents1",
-      "function_file_path": "fury-secret-files/wakanda_agents1.py"
+      "function_name": "wakanda_agen",
+      "function_file_path": "fury-secret-files/wakanda_agen.py"
     },
     {
       "function_name": "dddd",
